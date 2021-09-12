@@ -1,0 +1,9 @@
+package com.qa.pages;
+
+public class Loginpage {
+	
+	public static void main(String[] args) {
+		System.out.println("this is login page ,design pom class for login page");
+	}
+
+}
